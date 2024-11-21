@@ -1,2 +1,2 @@
 # SecureBase
-this project is about Authentication、Authorization、Credential
+This project is about Authentication、Authorization、Credential
